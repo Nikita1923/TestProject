@@ -54,6 +54,8 @@ public class Login {
 //		driver.findElement(By.id("toolbtn_loadOpenTasks")).click();
 //		System.out.println("Open tab clicked");
 		
+		System.out.println("Testing");
+		
 	}
 
 }
